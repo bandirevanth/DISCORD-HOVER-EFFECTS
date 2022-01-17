@@ -16,6 +16,7 @@ let emojiArr = [
      "😳",
      "😱",
      "😛",
+     "🤯",
 ];
 let incr = 0;
 emoji.innerHTML = emojiArr[incr];
